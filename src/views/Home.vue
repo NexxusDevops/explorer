@@ -18,7 +18,6 @@
     <p class="mb-1">
       High grade server hosting, top of the line security practice, with tested installation scripts and processes. BlockchainNodes.io will quickly get you up and running.
     </p>
-    </p>
     <p class="mb-1">
       We will build on your servers or host your nodes on ours. Contact our team today for a quote!
     </p>
