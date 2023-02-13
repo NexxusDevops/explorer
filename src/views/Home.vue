@@ -13,10 +13,17 @@
     </b-link>
 
     <p class="mb-1">
-      Blockchain Node Services, Block Explorer, Wallet, and more
+      At BlockchainNodes.io, we aim to deliver fast Blockchain Node deployment. Whether you are looking to host a development node, host a node for your blockchain application, or to act as a validator node on your favorite blockchain, we have you covered.
+    </p>
+    <p class="mb-1">
+      High grade server hosting, top of the line security practice, with tested installation scripts and processes. BlockchainNodes.io will quickly get you up and running.
+    </p>
+    </p>
+    <p class="mb-1">
+      We will build on your servers or host your nodes on ours. Contact our team today for a quote!
     </p>
     <h2 class="mb-3">
-      Cosmos Ecosystem Block Explorers
+      Block Explorers for the Cosmos Ecosystem
     </h2>
 
     <div>
