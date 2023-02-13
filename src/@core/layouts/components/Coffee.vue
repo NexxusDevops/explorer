@@ -80,8 +80,8 @@ export default {
   },
   data() {
     return {
-      erc20: '0x88BFec573Dd3E4b7d2E6BfD4D0D6B11F843F8aa1',
-      selectedAddress: 'cosmos1ev0vtddkl7jlwfawlk06yzncapw2x9quyxx75u',
+      erc20: '0xc5D4C175275AcF1D296df3658CaC712f6f0CBDaD',
+      selectedAddress: 'cosmos1kz30xz5ex0guyqd2k607qacalt0fsrdf0g9twp',
     }
   },
   computed: {
