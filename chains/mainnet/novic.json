@@ -1,19 +1,19 @@
 {
     "chain_name": "novic",
-    "api": ["http://147.182.189.119:1317"],
-    "rpc": ["http://147.182.189.119:26657"],
+    "api": ["https://testnet.noviclabs.com/1317/"],
+    "rpc": ["https://testnet.noviclabs.com/26657/"],
     "snapshot_provider": "",
     "sdk_version": "0.46.3",
     "coin_type": "60",
     "min_tx_fee": "5000000000000000",
     "addr_prefix": "novic",
-    "logo": "/logos/cosmos.png",
+    "logo": "/logos/novic.png",
     "keplr_features": ["ibc-transfer", "ibc-go", "eth-address-gen", "eth-key-sign"],
     "assets": [{
         "base": "anovic",
         "symbol": "novic",
         "exponent": "18",
         "coingecko_id": "",
-        "logo": "/logos/cosmos.png"
+        "logo": "/logos/novic.png"
     }]
 }
