@@ -6,12 +6,12 @@
     "sdk_version": "0.46.3",
     "coin_type": "60",
     "min_tx_fee": "5000000000000000",
-    "addr_prefix": "novic",
+    "addr_prefix": "evmos",
     "logo": "/logos/novic.png",
     "keplr_features": ["ibc-transfer", "ibc-go", "eth-address-gen", "eth-key-sign"],
     "assets": [{
-        "base": "anovic",
-        "symbol": "novic",
+        "base": "anevmos",
+        "symbol": "evmos",
         "exponent": "18",
         "coingecko_id": "",
         "logo": "/logos/novic.png"
